@@ -3,7 +3,7 @@ import './App.css'
 function App() {
 
   return (
-    <h1> hello lets build a Crypto-api </h1>
+    <h1> hello lets build a Crypto-api hello </h1>
   )
 }
 
