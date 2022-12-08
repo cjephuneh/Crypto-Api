@@ -1,9 +1,11 @@
 import './App.css'
+import Navbar from './components/Navbar'
 
 function App() {
 
   return (
-    <h1> hello lets build a Crypto-api hello </h1>
+    <Navbar />
+    
   )
 }
 
