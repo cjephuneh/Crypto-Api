@@ -1,5 +1,6 @@
 import React from 'react'
 import './Navbar.css'
+import MenuIcon from '@mui/icons-material/Menu';
 
 const Navbar = () => {
   return (
@@ -21,6 +22,9 @@ const Navbar = () => {
         </ul>
         <div className='btn-group'>
             <button className='btn'>Connect Wallet</button>
+        </div>
+        <div className='hamburger'>
+            <MenuIcon />
         </div>
       
     </div>
